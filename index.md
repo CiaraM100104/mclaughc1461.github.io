@@ -7,8 +7,10 @@ pre-installed Github Jekyll themes:
 pre-installed Github themes: https://pages.github.com/themes
 
 Here are a list of projects I'm working on:
-# Project 1
-Info for project 1
-
-# Project 2
+# Visual Novel Project
+<a href="https://github.com/CiaraM100104/CTS-285-VN"> Visual Novel Project</a>
+# Text Adventure/Mortuus
 Info for Project 2
+
+# Dataman
+
