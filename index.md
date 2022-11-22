@@ -20,4 +20,5 @@ A class project I am working on with a fellow classmate, here's the link to her 
 
 
 # Dataman
-<a href="https://github.com/CiaraM100104/CTS285"> Visual Novel Project</a>
+A project I am also working on for school.
+<a href="https://github.com/CiaraM100104/CTS285"> Datatman</a>
