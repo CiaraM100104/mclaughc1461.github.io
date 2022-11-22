@@ -1,12 +1,14 @@
 # mclaughc1461.github.io
 
-Github Pages site https://mclaughc1461.github.io/dev-blog
+Github Pages site https://ciaram100104.github.io/mclaughc1461.github.io/
 
-pre-installed Github Jekyll themes: 
+Pre-installed Github Jekyll themes: 
 =======
 pre-installed Github themes: https://pages.github.com/themes
 
-Here are a list of projects I'm working on:
+# Here are a list of projects I'm working on!:
+
+
 # Visual Novel Project
 A class project I'm working on for school and intend on polishing more as a personal project.
 
