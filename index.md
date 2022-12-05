@@ -22,3 +22,6 @@ A class project I am working on with a fellow classmate, here's the link to her 
 # Dataman
 A project I am also working on for school.
 <a href="https://github.com/CiaraM100104/CTS285"> Datatman</a>
+
+## Diagrams
+![Context Diagram](https://user-images.githubusercontent.com/90720471/205704643-0aca8046-e841-4d6f-8f07-4b7013630f31.png)
